@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:39</Created>
+	<LastChange>2019-03-12T12:36:02</LastChange></Metadata>
+	<Page imageFilename="schiller_naive03_1796_0056.jpg" imageWidth="1861" imageHeight="2601" type="content">
+	<PrintSpace>
+	<Coords points="1448,2506 1448,254 70,254 70,2506"/></PrintSpace>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1258,454 1258,400 1119,400 1119,454"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1029,451 1029,387 406,387 406,451"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1232,519 1232,1321 1063,1321 1063,1320 723,1320 723,1319 383,1319 383,1318 212,1318 212,519"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="382,1320 382,1321 722,1321 722,1322 1062,1322 1062,1323 1232,1323 1232,2287 212,2287 212,1320"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

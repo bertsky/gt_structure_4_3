@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:53</Created>
+	<LastChange>2019-03-05T16:25:50</LastChange></Metadata>
+	<Page imageFilename="ruempler_gartenbau_1882_0120.jpg" imageWidth="2658" imageHeight="3262" type="content">
+	<PrintSpace>
+	<Coords points="2560,3020 2560,220 708,220 708,3020"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="939,677 1738,677 1738,1091 939,1091"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="944,1774 1746,1774 1746,2397 944,2397"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1028,428 1028,368 928,368 928,428"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1860,428 1860,368 1608,368 1608,428"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1752,2812 1752,444 932,444 932,2812"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2560,2820 2560,456 1760,456 1760,2820"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

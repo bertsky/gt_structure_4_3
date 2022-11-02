@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:05</Created>
+	<LastChange>2019-03-12T13:13:48</LastChange></Metadata>
+	<Page imageFilename="sailer_selbstmord_1785_0197.jpg" imageWidth="1560" imageHeight="2241" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/>
+	<RegionRefIndexed regionRef="region_7" index="5"/>
+	<RegionRefIndexed regionRef="region_8" index="6"/>
+	<RegionRefIndexed regionRef="region_9" index="7"/>
+	<RegionRefIndexed regionRef="region_10" index="8"/>
+	<RegionRefIndexed regionRef="region_11" index="9"/>
+	<RegionRefIndexed regionRef="region_12" index="10"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="54,385 1003,385 1003,1657 54,1657"/></TableRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="410,402 974,402 974,471 410,471"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="104,402 399,402 399,474 104,474"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="100,482 399,482 399,651 100,651"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="paragraph">
+	<Coords points="414,654 979,654 979,1344 414,1344"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="paragraph">
+	<Coords points="102,659 399,659 399,1342 102,1342"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" type="paragraph">
+	<Coords points="102,1350 398,1350 398,1649 102,1649"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" type="paragraph">
+	<Coords points="410,1350 977,1350 977,1651 410,1651"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_10" type="catch-word">
+	<Coords points="805,1580 971,1580 971,1642 805,1642"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_11" type="signature-mark">
+	<Coords points="502,1580 638,1580 638,1644 502,1644"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_12" type="catch-word">
+	<Coords points="817,1855 968,1855 968,1914 817,1914"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="952,383 952,305 836,305 836,383"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="802,372 802,302 152,302 152,372"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="963,1861 963,1641 91,1641 91,1861"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

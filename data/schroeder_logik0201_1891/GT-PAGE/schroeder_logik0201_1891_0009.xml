@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:19</Created>
+	<LastChange>2019-03-05T16:57:48</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik0201_1891_0009.jpg" imageWidth="2092" imageHeight="2943" type="content">
+	<PrintSpace>
+	<Coords points="1653,2839 1653,246 39,246 39,2839"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#cit" type="paragraph">
+	<Coords points="792,1731 1485,1731 1485,1968 792,1968"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1489,1375 1489,453 96,453 96,1375"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1021,1432 1021,1360 567,1360 567,1432"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1046,1707 1046,1450 517,1450 517,1707"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="853,2185 853,2071 675,2071 675,2185"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1275,2621 1275,2364 232,2364 232,2621"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

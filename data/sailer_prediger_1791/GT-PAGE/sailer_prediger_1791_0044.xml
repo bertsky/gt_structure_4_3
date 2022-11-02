@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:03</Created>
+	<LastChange>2019-03-12T13:16:08</LastChange></Metadata>
+	<Page imageFilename="sailer_prediger_1791_0044.jpg" imageWidth="1722" imageHeight="2468" type="content">
+	<PrintSpace>
+	<Coords points="1681,2278 1681,142 463,142 463,2278"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="1076,296 1211,296 1211,378 1076,378"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="696,506 1678,506 1678,1431 696,1431"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="742,290 742,212 621,212 621,290"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1645,509 1645,360 642,360 642,509"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1245,1536 1245,1484 918,1484 918,1536"/></SeparatorRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords points="1654,2115 1654,2042 1563,2042 1563,2115"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1666,1536 1666,1844 1484,1844 1484,1845 1122,1845 1122,1846 759,1846 759,1847 578,1847 578,1536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1666,1846 1666,2033 578,2033 578,1849 760,1849 760,1848 1123,1848 1123,1847 1485,1847 1485,1846"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

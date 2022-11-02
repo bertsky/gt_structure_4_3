@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:23:53</Created>
+	<LastChange>2019-03-12T13:23:34</LastChange></Metadata>
+	<Page imageFilename="ruempler_gartenbau_1882_0018.jpg" imageWidth="2658" imageHeight="3262" type="content">
+	<PrintSpace>
+	<Coords points="2624,3016 2624,292 712,292 712,3016"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="region_6" index="7"/>
+	<RegionRefIndexed regionRef="region_7" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="1447,412 1921,412 1921,479 1447,479"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="864,415 946,415 946,486 864,486"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_6">
+	<Coords points="1697,1369 2493,1369 2493,2532 1697,2532"/></GraphicRegion>
+	<TextRegion id="region_7" type="caption">
+	<Coords points="1940,2532 2249,2532 2249,2593 1940,2593"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" custom="#column" type="paragraph">
+	<Coords points="2507,497 2507,1111 2461,1111 2461,1112 2369,1112 2369,1113 2278,1113 2278,1114 2186,1114 2186,1115 2095,1115 2095,1116 2004,1116 2004,1117 1912,1117 1912,1118 1821,1118 1821,1119 1729,1119 1729,1120 1684,1120 1684,497"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" custom="#column" type="paragraph">
+	<Coords points="2507,1113 2507,2887 1684,2887 1684,1122 1730,1122 1730,1121 1822,1121 1822,1120 1913,1120 1913,1119 2005,1119 2005,1118 2096,1118 2096,1117 2187,1117 2187,1116 2279,1116 2279,1115 2370,1115 2370,1114 2462,1114 2462,1113"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" custom="#column" type="paragraph">
+	<Coords points="1684,2652 1684,2886 869,2886 869,2658 937,2658 937,2657 1073,2657 1073,2656 1209,2656 1209,2655 1345,2655 1345,2654 1481,2654 1481,2653 1617,2653 1617,2652"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" custom="#column" type="paragraph">
+	<Coords points="1684,497 1684,1895 1662,1895 1662,1896 1619,1896 1619,1897 1576,1897 1576,1898 1533,1898 1533,1899 1490,1899 1490,1900 1448,1900 1448,1901 1405,1901 1405,1902 1362,1902 1362,1903 1319,1903 1319,1904 1276,1904 1276,1905 1233,1905 1233,1906 1190,1906 1190,1907 1147,1907 1147,1908 1104,1908 1104,1909 1062,1909 1062,1910 1019,1910 1019,1911 976,1911 976,1912 933,1912 933,1913 890,1913 890,1914 869,1914 869,497"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" custom="#column" type="paragraph">
+	<Coords points="1684,1897 1684,2650 1616,2650 1616,2651 1480,2651 1480,2652 1344,2652 1344,2653 1208,2653 1208,2654 1072,2654 1072,2655 936,2655 936,2656 869,2656 869,1916 891,1916 891,1915 934,1915 934,1914 977,1914 977,1913 1020,1913 1020,1912 1063,1912 1063,1911 1105,1911 1105,1910 1148,1910 1148,1909 1191,1909 1191,1908 1234,1908 1234,1907 1277,1907 1277,1906 1320,1906 1320,1905 1363,1905 1363,1904 1406,1904 1406,1903 1449,1903 1449,1902 1491,1902 1491,1901 1534,1901 1534,1900 1577,1900 1577,1899 1620,1899 1620,1898 1663,1898 1663,1897"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

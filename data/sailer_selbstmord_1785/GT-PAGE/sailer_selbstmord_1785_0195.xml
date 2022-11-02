@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:05</Created>
+	<LastChange>2019-03-12T13:14:09</LastChange></Metadata>
+	<Page imageFilename="sailer_selbstmord_1785_0195.jpg" imageWidth="1560" imageHeight="2241" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/>
+	<RegionRefIndexed regionRef="region_7" index="5"/>
+	<RegionRefIndexed regionRef="region_8" index="6"/>
+	<RegionRefIndexed regionRef="region_9" index="7"/>
+	<RegionRefIndexed regionRef="region_10" index="8"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="62,372 1023,372 1023,1651 62,1651"/></TableRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="112,392 407,392 407,461 112,461"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="417,392 991,392 991,463 417,463"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="112,472 406,472 406,596 112,596"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="paragraph">
+	<Coords points="422,599 994,599 994,1654 422,1654"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="paragraph">
+	<Coords points="112,602 414,602 414,1654 112,1654"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" type="signature-mark">
+	<Coords points="587,1580 726,1580 726,1646 587,1646"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" type="catch-word">
+	<Coords points="882,1582 988,1582 988,1651 882,1651"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_10" type="catch-word">
+	<Coords points="847,1852 991,1852 991,1913 847,1913"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="975,366 975,294 872,294 872,366"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="830,363 830,300 152,300 152,363"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="991,1850 991,1663 102,1663 102,1850"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:15</Created>
+	<LastChange>2019-03-12T12:41:34</LastChange></Metadata>
+	<Page imageFilename="savigny_system03_1840_0171.jpg" imageWidth="1758" imageHeight="2625" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="90,1038 1173,1038 1173,1920 90,1920"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="footnote">
+	<Coords points="90,1941 1170,1941 1170,2268 90,2268"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1138,364 1138,325 1041,325 1041,364"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1009,370 1009,329 200,329 200,370"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="425,1022 425,970 119,970 119,1022"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" custom="#list_item" type="paragraph">
+	<Coords points="1161,408 1161,679 1124,679 1124,680 1050,680 1050,681 977,681 977,682 904,682 904,683 830,683 830,684 757,684 757,685 684,685 684,686 610,686 610,687 537,687 537,688 463,688 463,689 390,689 390,690 317,690 317,691 243,691 243,692 207,692 207,408"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" custom="#list_item" type="paragraph">
+	<Coords points="1161,681 1161,957 207,957 207,694 244,694 244,693 318,693 318,692 391,692 391,691 464,691 464,690 538,690 538,689 611,689 611,688 685,688 685,687 758,687 758,686 831,686 831,685 905,685 905,684 978,684 978,683 1051,683 1051,682 1125,682 1125,681"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

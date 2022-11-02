@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:21</Created>
+	<LastChange>2019-03-12T12:23:00</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik0202_1905_0081.jpg" imageWidth="2092" imageHeight="2943" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="399,816 1221,816 1221,894 399,894"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level3" type="heading">
+	<Coords points="114,903 1518,903 1518,1044 114,1044"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1535,1053 1535,1334 1432,1334 1432,1335 1227,1335 1227,1336 1022,1336 1022,1337 817,1337 817,1338 612,1338 612,1339 407,1339 407,1340 202,1340 202,1341 100,1341 100,1053"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1535,1336 1535,1884 1296,1884 1296,1883 818,1883 818,1882 340,1882 340,1881 100,1881 100,1343 203,1343 203,1342 408,1342 408,1341 613,1341 613,1340 818,1340 818,1339 1023,1339 1023,1338 1228,1338 1228,1337 1433,1337 1433,1336"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="339,1883 339,1884 817,1884 817,1885 1295,1885 1295,1886 1535,1886 1535,2199 1432,2199 1432,2200 1227,2200 1227,2201 1022,2201 1022,2202 817,2202 817,2203 612,2203 612,2204 407,2204 407,2205 202,2205 202,2206 100,2206 100,1883"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1535,2201 1535,2564 100,2564 100,2208 203,2208 203,2207 408,2207 408,2206 613,2206 613,2205 818,2205 818,2204 1023,2204 1023,2203 1228,2203 1228,2202 1433,2202 1433,2201"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

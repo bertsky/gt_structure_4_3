@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:05</Created>
+	<LastChange>2019-03-12T12:51:37</LastChange></Metadata>
+	<Page imageFilename="sailer_selbstmord_1785_0235.jpg" imageWidth="1560" imageHeight="2241" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_4" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/>
+	<RegionRefIndexed regionRef="region_6" index="3"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="407,275 798,275 798,374 407,374"/></GraphicRegion>
+	<TextRegion id="region_4" type="paragraph">
+	<Coords points="600,1024 1064,1024 1064,1694 600,1694"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="139,1024 593,1024 593,1696 139,1696"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="catch-word">
+	<Coords points="867,1855 1061,1855 1061,1944 867,1944"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="heading">
+	<Coords points="833,458 833,386 388,386 388,458"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1052,950 1052,477 163,477 163,950"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

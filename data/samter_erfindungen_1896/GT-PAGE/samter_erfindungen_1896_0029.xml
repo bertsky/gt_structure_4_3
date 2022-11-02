@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:24:07</Created>
+	<LastChange>2019-03-12T12:47:39</LastChange></Metadata>
+	<Page imageFilename="samter_erfindungen_1896_0029.jpg" imageWidth="2327" imageHeight="3017" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/>
+	<RegionRefIndexed regionRef="region_6" index="6"/>
+	<RegionRefIndexed regionRef="region_7" index="7"/>
+	<RegionRefIndexed regionRef="region_8" index="8"/>
+	<RegionRefIndexed regionRef="region_9" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="537,502 1111,502 1111,564 537,564"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1424,502 1506,502 1506,566 1424,566"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="322,602 1398,602 1398,1199 322,1199"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="197,787 321,787 321,1021 197,1021"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_6">
+	<Coords points="350,1412 1329,1412 1329,1724 350,1724"/></GraphicRegion>
+	<TextRegion id="region_7" type="caption">
+	<Coords points="202,1420 343,1420 343,1696 202,1696"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_8">
+	<Coords points="969,1874 1512,1874 1512,2552 969,2552"/></GraphicRegion>
+	<TextRegion id="region_9" type="caption">
+	<Coords points="1100,2552 1366,2552 1366,2624 1100,2624"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1515,1212 1515,2525 1467,2525 1467,2526 1372,2526 1372,2527 1181,2527 1181,2528 1086,2528 1086,2529 895,2529 895,2530 801,2530 801,2531 610,2531 610,2532 515,2532 515,2533 324,2533 324,2534 229,2534 229,2535 134,2535 134,2536 87,2536 87,1212"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="960,2523 960,2683 87,2683 87,2538 116,2538 116,2537 174,2537 174,2536 232,2536 232,2535 290,2535 290,2534 349,2534 349,2533 407,2533 407,2532 465,2532 465,2531 524,2531 524,2530 582,2530 582,2529 640,2529 640,2528 698,2528 698,2527 757,2527 757,2526 815,2526 815,2525 873,2525 873,2524 931,2524 931,2523"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

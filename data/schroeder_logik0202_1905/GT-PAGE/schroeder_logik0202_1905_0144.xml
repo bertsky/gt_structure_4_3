@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:21</Created>
+	<LastChange>2019-03-05T17:03:01</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik0202_1905_0144.jpg" imageWidth="2093" imageHeight="2943" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<MathsRegion id="region_1">
+	<Coords points="556,476 2088,476 2088,1925 556,1925"/></MathsRegion>
+	<TableRegion id="region_2">
+	<Coords points="590,2383 2029,2383 2029,2658 590,2658"/></TableRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1617,450 1617,385 1021,385 1021,450"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="739,439 739,389 600,389 600,439"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="692,1957 692,2010 2010,2010 2010,1957"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2025,2250 2025,2107 596,2107 596,2250"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1585,2378 1585,2332 632,2332 632,2378"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="r5">
+	<Coords points="1410,2092 1410,2010 600,2010 600,2092"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="1664,2321 1664,2257 957,2257 957,2321"/></MathsRegion></Page></PcGts>

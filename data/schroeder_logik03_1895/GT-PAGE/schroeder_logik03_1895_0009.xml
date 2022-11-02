@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:18</Created>
+	<LastChange>2019-03-05T16:56:23</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik03_1895_0009.jpg" imageWidth="2421" imageHeight="3073" type="content">
+	<PrintSpace>
+	<Coords points="1838,2896 1838,303 65,303 65,2896"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#cit" type="paragraph">
+	<Coords points="996,1900 1615,1900 1615,1992 996,1992"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#cit" type="paragraph">
+	<Coords points="996,1990 1618,1990 1618,2089 996,2089"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r0">
+	<Coords points="1657,465 1657,296 1246,296 1246,465"/></NoiseRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1580,1534 1580,542 173,542 173,1534"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1050,1630 1050,1580 746,1580 746,1630"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1169,1846 1169,1684 650,1684 650,1846"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1396,2630 1396,2438 396,2438 396,2630"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1003,2307 1003,2165 826,2165 826,2307"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

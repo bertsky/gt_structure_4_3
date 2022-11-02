@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:21</Created>
+	<LastChange>2019-03-05T17:04:17</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik0202_1905_0242.jpg" imageWidth="2092" imageHeight="2943" type="content">
+	<PrintSpace>
+	<Coords points="2064,2771 2064,278 385,278 385,2771"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#back_paragraph" type="other">
+	<Coords points="565,982 2003,982 2003,2661 565,2661"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level1" type="heading">
+	<Coords points="926,780 1631,780 1631,935 926,935"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

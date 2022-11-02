@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:26</Created>
+	<LastChange>2019-03-12T12:10:00</LastChange></Metadata>
+	<Page imageFilename="schulz_italien_1797_0123.jpg" imageWidth="1456" imageHeight="2196" type="content">
+	<PrintSpace>
+	<Coords points="1132,2005 1132,186 24,186 24,2005"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="337,307 643,307 643,390 337,390"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="126,1090 931,1090 931,1383 126,1383"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="497,1790 651,1790 651,1879 497,1879"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="697,1532 697,1486 370,1486 370,1532"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="905,416 905,904 873,904 873,905 810,905 810,906 748,906 748,907 685,907 685,908 622,908 622,909 559,909 559,910 497,910 497,911 434,911 434,912 371,912 371,913 308,913 308,914 245,914 245,915 183,915 183,916 120,916 120,917 89,917 89,416"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="905,906 905,1051 89,1051 89,919 121,919 121,918 184,918 184,917 246,917 246,916 309,916 309,915 372,915 372,914 435,914 435,913 498,913 498,912 560,912 560,911 623,911 623,910 686,910 686,909 749,909 749,908 811,908 811,907 874,907 874,906"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

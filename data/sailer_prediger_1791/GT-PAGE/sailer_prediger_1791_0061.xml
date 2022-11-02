@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:03</Created>
+	<LastChange>2019-03-12T13:15:53</LastChange></Metadata>
+	<Page imageFilename="sailer_prediger_1791_0061.jpg" imageWidth="1722" imageHeight="2468" type="content">
+	<PrintSpace>
+	<Coords points="1269,2300 1269,184 6,184 6,2300"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="240,330 919,330 919,522 240,522"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level3" type="heading">
+	<Coords points="236,610 925,610 925,882 236,882"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1084,327 1084,263 981,263 981,327"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="815,936 815,887 351,887 351,936"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="890,572 890,545 272,545 272,572"/></SeparatorRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords points="1084,2130 1084,2066 1006,2066 1006,2130"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1081,1658 1081,2072 63,2072 63,1679 88,1679 88,1678 136,1678 136,1677 185,1677 185,1676 233,1676 233,1675 282,1675 282,1674 330,1674 330,1673 379,1673 379,1672 427,1672 427,1671 476,1671 476,1670 524,1670 524,1669 573,1669 573,1668 621,1668 621,1667 669,1667 669,1666 718,1666 718,1665 766,1665 766,1664 815,1664 815,1663 863,1663 863,1662 912,1662 912,1661 960,1661 960,1660 1009,1660 1009,1659 1057,1659 1057,1658"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1081,945 1081,1253 912,1253 912,1252 573,1252 573,1251 233,1251 233,1250 63,1250 63,945"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="232,1252 232,1253 572,1253 572,1254 911,1254 911,1255 1081,1255 1081,1656 1056,1656 1056,1657 1008,1657 1008,1658 959,1658 959,1659 911,1659 911,1660 862,1660 862,1661 814,1661 814,1662 765,1662 765,1663 717,1663 717,1664 668,1664 668,1665 620,1665 620,1666 572,1666 572,1667 523,1667 523,1668 475,1668 475,1669 426,1669 426,1670 378,1670 378,1671 329,1671 329,1672 281,1672 281,1673 232,1673 232,1674 184,1674 184,1675 135,1675 135,1676 87,1676 87,1677 63,1677 63,1252"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

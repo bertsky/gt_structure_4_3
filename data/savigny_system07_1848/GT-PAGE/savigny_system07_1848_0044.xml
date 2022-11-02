@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:24:22</Created>
+	<LastChange>2019-03-12T12:38:21</LastChange></Metadata>
+	<Page imageFilename="savigny_system07_1848_0044.jpg" imageWidth="1827" imageHeight="2636" type="content">
+	<PrintSpace>
+	<Coords points="1790,2474 1790,177 519,177 519,2474"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#list_item" type="paragraph">
+	<Coords points="678,411 1779,411 1779,1569 678,1569"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="790,393 790,319 693,319 693,393"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1606,406 1606,319 822,319 822,406"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords points="1208,1614 1208,1658 1209,1658 1209,1745 1210,1745 1210,1833 1211,1833 1211,1920 1212,1920 1212,2007 1213,2007 1213,2095 1214,2095 1214,2182 1215,2182 1215,2226 1217,2226 1217,2181 1216,2181 1216,2094 1215,2094 1215,2006 1214,2006 1214,1919 1213,1919 1213,1832 1212,1832 1212,1744 1211,1744 1211,1657 1210,1657 1210,1614 1782,1614 1782,2226 657,2226 657,1614"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

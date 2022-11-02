@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:21</Created>
+	<LastChange>2019-03-12T12:11:45</LastChange></Metadata>
+	<Page imageFilename="schroeder_logik0202_1905_0137.jpg" imageWidth="2092" imageHeight="2943" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="366,696 1257,696 1257,786 366,786"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level3" type="heading">
+	<Coords points="150,795 1506,795 1506,921 150,921"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1532,1714 1532,1410 100,1410 100,1714"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1528,2214 1528,1878 96,1878 96,2214"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1300,2346 1300,2282 92,2282 92,2346"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1110,2460 1110,2410 100,2410 100,2460"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="r5">
+	<Coords points="1207,1407 1207,1310 117,1310 117,1407"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="1117,1853 1117,1714 107,1714 107,1853"/></MathsRegion>
+	<MathsRegion id="r7">
+	<Coords points="1489,2271 1489,2217 142,2217 142,2271"/></MathsRegion>
+	<MathsRegion id="r8">
+	<Coords points="1200,2403 1200,2339 417,2339 417,2403"/></MathsRegion>
+	<MathsRegion id="r9">
+	<Coords points="1503,2564 1503,2482 117,2482 117,2564"/></MathsRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1528,935 1528,1102 1288,1102 1288,1101 806,1101 806,1100 324,1100 324,1099 82,1099 82,935"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="323,1101 323,1102 805,1102 805,1103 1287,1103 1287,1104 1528,1104 1528,1307 82,1307 82,1101"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
