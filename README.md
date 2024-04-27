@@ -625,7 +625,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>scheffel_ekkehard_1855</td>
-                  <td>42</td>
+                  <td>122</td>
                   <td/>
                   <td/>
                   <td/>
@@ -640,7 +640,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>40</td>
                </tr>
                <tr>
                   <td>schmoller_volkswirtschaftslehre_1893</td>
@@ -987,25 +987,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                <tr>
                   <td>schiller_universalgeschichte_1789</td>
                   <td>66</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>scheffel_ekkehard_1855_zk</td>
-                  <td>80</td>
                   <td/>
                   <td/>
                   <td/>
